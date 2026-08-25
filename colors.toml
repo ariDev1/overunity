@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Derived from the tungsten glow and blue-green circuit details in the reference images.
+accent = "#ffae38"
+selection = "#3d2b18"
+muted = "#2b251f"
+
+background = "#12100e"
+dark_background = "#0c0b0a"
+darker_background = "#080706"
+lighter_background = "#211b16"
+
+foreground = "#e9e1d5"
+dark_foreground = "#766b5e"
+light_foreground = "#c4b9aa"
+bright_foreground = "#fff5e6"
+
+red = "#e06c57"
+yellow = "#e5c07b"
+orange = "#ffae38"
+green = "#a8c97f"
+cyan = "#6fb8b3"
+blue = "#6fa8c5"
+magenta = "#c28bc4"
+brown = "#7d4b2d"
+
+bright_red = "#ff7b66"
+bright_yellow = "#ffd27a"
+bright_green = "#c3df91"
+bright_cyan = "#8bd8d0"
+bright_blue = "#8bc7e8"
+bright_magenta = "#e0a5db"
