@@ -2,6 +2,8 @@
 
 Overunity is a dark Omarchy theme inspired by field notebooks, resonance experiments, tungsten light, and analog instrumentation. It combines a near-black work surface with tungsten amber, blue-green circuit detail, and high-contrast developer-friendly colors.
 
+![Overunity desktop](previews/desktop.png)
+
 ![Tungsten Coil](backgrounds/tungsten-coil.jpg)
 
 ## Install
